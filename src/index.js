@@ -8,8 +8,6 @@ import AppThemeProvider from './theme/AppThemeProvider';
 
 ReactDOM.render(
   <AppThemeProvider>
-
- 
     {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
     <CssBaseline />
     <App />
